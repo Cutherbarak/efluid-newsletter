@@ -1,0 +1,32 @@
+
+		body {
+			Margin: 0;
+			padding: 0;
+			background-color: #f6f9fc;
+		}
+		table {
+			border-spacing: 0;
+		}
+		td {
+			padding: 0;
+		}
+		img {
+			border: 0;
+		}
+
+		@media screen and (max-width: 600px) { 
+
+		}
+		@media screen and (max-width: 400px) {
+
+		}
+	    .btn:hover {
+		color: white;
+		opacity: .8;
+		transform: scale(1.02);
+    	}
+
+        .wrapper{
+            width: 100%;
+            background-color: #f6f9fc;
+        }
